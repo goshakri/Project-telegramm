@@ -1,0 +1,2118 @@
+{
+  "assignees": {
+    "Михаил К.": {
+      "name": "Михаил К.",
+      "telegramChatId": "369699940"
+    },
+    "Дмитрий А.": {
+      "name": "Дмитрий А.",
+      "telegramChatId": ""
+    },
+    "Алексей П.": {
+      "name": "Алексей П.",
+      "telegramChatId": "369699940"
+    },
+    "Андрей Л.": {
+      "name": "Андрей Л.",
+      "telegramChatId": ""
+    },
+    "Виктор Р.": {
+      "name": "Виктор Р.",
+      "telegramChatId": "369699940"
+    },
+    "Олег Т.": {
+      "name": "Олег Т.",
+      "telegramChatId": ""
+    },
+    "Павел С.": {
+      "name": "Павел С.",
+      "telegramChatId": ""
+    },
+    "Никита З.": {
+      "name": "Никита З.",
+      "telegramChatId": ""
+    },
+    "Григорий Ш.": {
+      "name": "Григорий Ш.",
+      "telegramChatId": ""
+    },
+    "Кирилл Б.": {
+      "name": "Кирилл Б.",
+      "telegramChatId": ""
+    },
+    "Сергей Н.": {
+      "name": "Сергей Н.",
+      "telegramChatId": ""
+    },
+    "Игорь М.": {
+      "name": "Игорь М.",
+      "telegramChatId": ""
+    },
+    "Анна В.": {
+      "name": "Анна В.",
+      "telegramChatId": ""
+    },
+    "Денис Х.": {
+      "name": "Денис Х.",
+      "telegramChatId": ""
+    },
+    "Роман Ф.": {
+      "name": "Роман Ф.",
+      "telegramChatId": ""
+    },
+    "Юлия Е.": {
+      "name": "Юлия Е.",
+      "telegramChatId": ""
+    },
+    "Артём Г.": {
+      "name": "Артём Г.",
+      "telegramChatId": ""
+    },
+    "Максим Д.": {
+      "name": "Максим Д.",
+      "telegramChatId": ""
+    },
+    "Елена О.": {
+      "name": "Елена О.",
+      "telegramChatId": ""
+    },
+    "Тимур В.": {
+      "name": "Тимур В.",
+      "telegramChatId": "7959709321"
+    }
+  },
+  "channel": {
+    "chatId": "",
+    "username": "@financetest121212"
+  },
+  "publishedPosts": [
+    {
+      "id": "post-1780010881758",
+      "chatId": "-1003969157962",
+      "messageId": 9,
+      "url": "https://t.me/financetest121212/9",
+      "text": "Тестовый пост после подключения обсуждений. Проверяем, появляется ли кнопка комментариев под публикацией.",
+      "publishedAt": "2026-05-28T23:28:01.758Z"
+    },
+    {
+      "id": "post-1780010236297",
+      "chatId": "-1003969157962",
+      "messageId": 7,
+      "url": "https://t.me/financetest121212/7",
+      "text": "цвцйвйцвйцв",
+      "publishedAt": "2026-05-28T23:17:16.297Z"
+    },
+    {
+      "id": "post-1780009361613",
+      "chatId": "-1003969157962",
+      "messageId": 2,
+      "url": "https://t.me/financetest121212/2",
+      "text": "12121",
+      "publishedAt": "2026-05-28T23:02:41.613Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "felix-01-01",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "с праздником",
+      "status": "posted",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: короткая. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx",
+      "notifiedAt": "2026-05-28T22:50:43.187Z",
+      "postedAt": "2026-05-28T22:50:45.995Z"
+    },
+    {
+      "id": "felix-01-02",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "DELL +16% на guidance — capex идёт не в чипы напрямую, а в готовые server racks. Сдвиг маржи вниз по стеку.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: углубление. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-03",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "почему NVDA −1.9%? все же на AI",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: уточняющий. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-04",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "DELL внезапно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: короткая. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-05",
+      "assignee": "Дмитрий А.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "QCOM +11% — менее очевидная история. Snapdragon на AI PC начинает доходить до отчётности, не только до пресс-релизов.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: углубление. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-06",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "с фондового — это новая ротация в AI или просто пятничная история?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: уточняющий. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-07",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "Видел такой паттерн в 2017 после взлёта NVDA — деньги начали растекаться вниз по стеку. Здесь похоже.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: личный опыт. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-08",
+      "assignee": "Игорь М.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "DELL это AI? я думал они просто компы делают",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: базовый. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-09",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "Один отчёт DELL — это не «сильная нота сектора». NVDA в минусе, SNDK в минусе — лидеры месяца. Это ротация из ядра в периферию, обычно сигнал усталости темы, а не продолжения.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: возражение. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-10",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "хороших выходных всем",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: короткая. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-11",
+      "assignee": "Кирилл Б.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "DELL — поставщик железа для AI-датацентров. Сейчас они и Supermicro собирают маржу с capex hyperscalers. Это не end of cycle, это middle.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: углубление. Строка: 11. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-12",
+      "assignee": "Павел С.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "Распределение зелёного по второму эшелону — это и есть momentum-плечо на стадии созревания темы. Дальше идут поставщики систем охлаждения, кабелей, оптики.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: углубление. Строка: 12. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-13",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "Феликс, во вторник открытие будет реакцией на пятницу или начнётся с нуля?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: уточняющий. Строка: 13. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-14",
+      "assignee": "Максим Д.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "AMD +4% — это на чём? не было же отчёта",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: уточняющий. Строка: 14. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-15",
+      "assignee": "Роман Ф.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "когда уже эта тема выдохнется",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: короткая. Строка: 15. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-16",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "У HNW клиентов на прошлой неделе массово спрашивали про DELL после anticipation. Сегодня многие зашли поздно, в hype.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: личный опыт. Строка: 16. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-17",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "интересно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: короткая. Строка: 17. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-18",
+      "assignee": "Олег Т.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "Для держателей с краткосрочным горизонтом — после такого движения critically watch short-term capital gains. Налоговая ставка съест значительную часть на DELL/QCOM.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: юридическое. Строка: 18. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-19",
+      "assignee": "Алексей П.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "Для late-stage co-invest позиций такие движения в публичных аналогах — главный сигнал к переоценке secondary premium. На этой неделе ожидаемо пересчитают.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: юридическое. Строка: 19. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-01-20",
+      "assignee": "Григорий Ш.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), утро — Пятница закрылась широким плюсом в железе AI",
+      "comment": "На IPO-пайплайн это переносится через quiet period — публичные comparables влияют на pricing range за месяц до листинга. DELL отчёт сейчас работает на IPO 2026 года.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Мысли вслух (рынок). Тип: юридическое. Строка: 20. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-01",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "наконец-то про co-invest подробно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: короткая. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-02",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "Co-invest — это слово, которое чаще всего звучит в venture-постах и реже всего расшифровывается. Хорошая неделя на повестке.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: личный опыт. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-03",
+      "assignee": "Игорь М.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "честно — я думал co-invest это просто «вместе с фондом». и всё.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: базовый. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-04",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "Феликс, эти три типа — это про США или мировая практика?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: уточняющий. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-05",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "ждал",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: короткая. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-06",
+      "assignee": "Григорий Ш.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "Co-invest как термин в Reg D-документах не унифицирован. Это семейство практик, не одна структура. Хорошо, что разбираете.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: юридическое. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-07",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "слой = SPV? или что-то другое",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: уточняющий. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-08",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "плюс",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: короткая. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-09",
+      "assignee": "Кирилл Б.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "По работе с фондами — большинство деков для LP оперирует словом «co-invest» как маркетинговым. Реальные права видны только в operating agreement.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: углубление. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-10",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "с фондового — это похоже на private placement у институциональных?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: уточняющий. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-11",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "Тема полезная, но рамка «реально рядом vs формально рядом» это маркетинговый фрейм. Юридически любой инвестор «реально рядом» если у него есть equity. Вопрос экономики, не близости.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: возражение. Строка: 11. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-12",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "У клиентов в банке регулярно показываю эту тему. Большинство платит retail-комиссии, думая что это «co-invest от фонда». Тема нужна давно.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: личный опыт. Строка: 12. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-13",
+      "assignee": "Павел С.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "Семейство структур точная формулировка. У family office мы внутри различаем 5-6 подтипов, в публичном поле упрощают до одного слова.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: углубление. Строка: 13. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-14",
+      "assignee": "Алексей П.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "На столе подписания эти три типа выглядят похоже — один Subscription Agreement, один Operating Agreement. Разница в полномочиях managing member и waterfall.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: юридическое. Строка: 14. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-15",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "запишу неделю",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: короткая. Строка: 15. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-16",
+      "assignee": "Максим Д.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "в крупных банках clients просят «pre-IPO co-invest» — это какой из трёх типов обычно?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: уточняющий. Строка: 16. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-17",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "В late-stage IC основной вопрос на co-invest — кто managing member. Это определяет всё остальное.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: углубление. Строка: 17. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-18",
+      "assignee": "Олег Т.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "К-1 у трёх типов различается. Это часть, которую инвесторы видят только в марте, когда уже подписано. На неделе если разберёте налоговую сторону — будет ценно.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: юридическое. Строка: 18. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-19",
+      "assignee": "Роман Ф.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "интересно но сложно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: короткая. Строка: 19. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-02-20",
+      "assignee": "Дмитрий А.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), доброе утро — Memorial Day + рамка про co-invest",
+      "comment": "Эта тема — водораздел между «инвестирую в private market» и «покупаю продукты, упакованные под private market». 80% retail-инвесторов на втором берегу.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + рамка недели. Тип: углубление. Строка: 20. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-01",
+      "assignee": "Дмитрий А.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "Самое чёткое разделение co-invest, которое я видел в открытом поле за последние 2 года. Обычно всё сводят к «есть и есть».",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: углубление. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-02",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "1-2% единоразово vs 30-50% — это реально такая разница на одном и том же имени?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: уточняющий. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-03",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "Был в обоих. В 2019 — Тип 1 в SaaS-компании. В 2021 — Тип 3 в одной известной AI-компании через retail. Разница в итоговой доходности на похожих exit'ах — почти 2x.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: личный опыт. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-04",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "«через рынок ликвидности параллельно» — точно сформулировано",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: короткая. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-05",
+      "assignee": "Игорь М.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "то есть на retail я плачу 30-50% сверху просто за бренд имени?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: базовый. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-06",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "Феликс, в Felix Circle Тип 1 — это всегда или только когда удаётся договориться с lead?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: уточняющий. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-07",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "По нашему IC — Тип 1 доступ реально работает только если фонд имеет долгие отношения с lead. Это не «договорились раз», а 5-7 лет co-invest истории.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: углубление. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-08",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "написал СВЯЗЬ",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: CTA. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-09",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "У клиентов в private banking 90% «co-invest» — это Тип 2 через AngelList или Forge. Тип 1 они даже не видят как опцию.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: личный опыт. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-10",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "Все три типа описаны точно, но фрейм «Тип 1 = реально, остальные = формально» спорный. Тип 2 через сильный syndicate lead может давать лучшую сделку чем Тип 1 в посредственном фонде. Доступ к качеству решает больше, чем формальный слой.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: возражение. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-11",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "забрала структуру",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: короткая. Строка: 11. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-12",
+      "assignee": "Кирилл Б.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "На уровне продукта — это и есть unbundling классической venture-функции. Раньше LP в фонд получал всё; сейчас та же экспозиция собирается из 3 разных продуктов с разной экономикой.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: углубление. Строка: 12. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-13",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "с фондового вопрос — на retail-маркетплейсах премия 30-50% это до или после lockup?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: уточняющий. Строка: 13. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-14",
+      "assignee": "Григорий Ш.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "Документально Тип 1 и Тип 3 выглядят похоже на первой странице. Разница видна на странице 4-5 — там operating agreement определяет, кто принимает решения за SPV. На первой странице вы этого не увидите.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: юридическое. Строка: 14. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-15",
+      "assignee": "Павел С.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "В family office на эту разницу строится whole рамка отбора сделок. Без Тип 1 venture allocation не работает в долгую — слои съедают доходность за 2-3 цикла.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: углубление. Строка: 15. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-16",
+      "assignee": "Олег Т.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "Налоговая разница: Тип 1 даёт чистый capital gain через K-1. Тип 3 через несколько SPV — часть может пройти как ordinary income. На крупном exit разница 15-20% после налогов.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: юридическое. Строка: 16. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-17",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "пост в закладки",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: короткая. Строка: 17. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-18",
+      "assignee": "Алексей П.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "Из практики M&A: при exit'е через acquisition в Тип 1 платежи идут чище. В Тип 3 escrow и earnout часто застревают на дополнительные 6-12 месяцев из-за дополнительных слоёв.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: юридическое. Строка: 18. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-19",
+      "assignee": "Роман Ф.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "впервые понятно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: короткая. Строка: 19. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-03-20",
+      "assignee": "Максим Д.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), обед — Co-invest изнутри. Три типа структур",
+      "comment": "если банк предлагает «co-invest в Anthropic» — это почти всегда Тип 2 или 3? Тип 1 банки в принципе не предлагают?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост недели). Тип: уточняющий. Строка: 20. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-01",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "буду",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: короткая. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-02",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "подключусь",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: короткая. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-03",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "Феликс, какая компания на эфире? имя сразу скажете?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: уточняющий. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-04",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "Феликс, документы будут показывать на экране или только обсуждать?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: уточняющий. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-05",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "Открытый разбор реальных co-invest документов — редкость. Запись будет?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: личный опыт. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-06",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "плюс",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: короткая. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-07",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "с фондового — этот формат регулярный или разовый?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: уточняющий. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-08",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "сигналы lead-инвестора — это конкретные критерии или субъективное «нравится команда»?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: уточняющий. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-09",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "буду на эфире",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: короткая. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-04-10",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "25 мая (пн), вечер — Анонс стрима 28 мая с Александрой",
+      "comment": "в календаре",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс. Тип: короткая. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-01",
+      "assignee": "Игорь М.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "честно — подписал SPV в прошлом году, ни одного из 4 вопросов не задал",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: базовый. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-02",
+      "assignee": "Дмитрий А.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "Поправил бы: «доверять структуре» работает только если ты сам уже разобрал минимум 3-4 структуры. До этого — «доверять» = «не понимать».",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: углубление. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-03",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "честно про подписание не глядя",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-04",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "Managing member как главный вопрос — точно. На IC сначала смотрим кто управляет SPV, потом всё остальное. Без понимания этого первый пункт остальное не имеет смысла.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: углубление. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-05",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "Феликс, operating agreement — на каком этапе можно успеть прочитать? до подписания вообще высылают?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: уточняющий. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-06",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "ждал именно этой темы",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-07",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "managing member это в каждом SPV или только в некоторых?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: уточняющий. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-08",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "В 2019 подписывал свой первый SPV. Operating agreement прочитал через 3 года, когда уже шёл exit. Понял, что подписал условия, на которые сегодня не пошёл бы. Урок дорогой.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: личный опыт. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-09",
+      "assignee": "Алексей П.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "Subscription Agreement и Operating Agreement обычно высылают за 5-7 рабочих дней до closing. Времени прочитать достаточно. Большинство не читает по личной причине, не по структурной.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: юридическое. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-10",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "плюс",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-11",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "У клиентов вижу регулярно: ставят подпись после 5 минут листания PDF. Размер чека $250K — потраченное время 5 минут. Дисбаланс.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: личный опыт. Строка: 11. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-12",
+      "assignee": "Кирилл Б.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "Operating agreement по объёму — 30-50 страниц. Не лекция — но и не невозможно. За 2 часа реальный читатель проходит.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: углубление. Строка: 12. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-13",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "с фондового — на бирже подписание идёт по стандартным условиям. В SPV каждый раз новый Operating Agreement?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: уточняющий. Строка: 13. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-14",
+      "assignee": "Олег Т.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "В Operating Agreement есть параметры, которые влияют на налоги — election типа, structure of distributions. Эти пункты особенно стоит читать. Налоговая часть редко вызывает вопросов до момента, когда поздно.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: юридическое. Строка: 14. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-15",
+      "assignee": "Григорий Ш.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "Reg D-документация на SPV стандартизирована на 80%. Оставшиеся 20% — это самая важная часть, и они в каждом SPV разные. Эти 20% и нужно вычитывать.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: юридическое. Строка: 15. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-16",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "буду читать сегодня внимательно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 16. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-17",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "«Подписывают, не понимая» — это симптом, не диагноз. Реальная причина: большинство SPV открываются на 48-72 часа. Времени на due diligence физически нет. Не «не читают», а «не успевают». Это не вина инвестора, это design рынка.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: возражение. Строка: 17. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-18",
+      "assignee": "Максим Д.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "managing member и GP — это одно и то же или разное?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: уточняющий. Строка: 18. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-19",
+      "assignee": "Павел С.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "В family office мы ввели правило: ни один SPV не подписывается за меньше 5 рабочих дней. Это срезало 30% сделок и улучшило среднюю доходность.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: углубление. Строка: 19. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-05-20",
+      "assignee": "Роман Ф.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), утро — Доброе утро. Сегодня внутрь SPV",
+      "comment": "написано доступно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 20. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-01",
+      "assignee": "Алексей П.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "Один уточняющий пункт: на retail-маркетплейсах ещё бывает третий уровень — feeder LLC поверх SPV. Это значит, что fiduciary duty по факту разбит на два уровня, и взыскать что-то с managing member становится юридически сложнее.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: юридическое. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-02",
+      "assignee": "Игорь М.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "то есть моё имя на cap table компании вообще никогда не появляется?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: базовый. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-03",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "В моей SaaS-сделке 2019 managing member был сам фонд — не affiliate. Это редкость, обычно вешают на отдельное юр.лицо. Это давало direct fiduciary к команде фонда, не через прокладку.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: личный опыт. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-04",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "operating agreement — есть смысл нанимать юриста для проверки или сам можно прочитать?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: уточняющий. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-05",
+      "assignee": "Дмитрий А.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "Самое практичное в посте — фраза «четыре вопроса должны быть отвечены до подписания». Это и есть рабочий чеклист, без который SPV — лотерея.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: углубление. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-06",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "написал ЗАЯВКА",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: CTA. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-07",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "fiduciary duty — это и есть та невидимая граница",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: короткая. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-08",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "К фразе про fiduciary: на institutional level это первый юридический фильтр. Если managing member — affiliate платформы, а не affiliate фонда — duty к платформе, не к самому фонду. Это меняет всё в случае спорной ситуации.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: углубление. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-09",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "Феликс, на retail managing member кому fiduciary должен — инвестору в SPV или платформе?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: уточняющий. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-10",
+      "assignee": "Григорий Ш.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "Side Letter — самая недооценённая часть. Туда уходит всё, что не вписали в Operating Agreement. Большинство инвесторов их даже не запрашивают. Если у lead-инвесторов есть side letter с лучшими условиями — у тебя их нет.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: юридическое. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-11",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "Operating Agreement = главный документ. забрала",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: короткая. Строка: 11. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-12",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "В private banking 95% клиентов на вопрос «кто managing member» отвечают: «фонд». Когда смотрим — affiliate платформы. Они не знают.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: личный опыт. Строка: 12. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-13",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "с фондового — waterfall в SPV похож на waterfall в hedge fund или принципиально другой?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: уточняющий. Строка: 13. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-14",
+      "assignee": "Олег Т.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "По налоговой K-1: managing member отвечает за подготовку и рассылку. На прямых co-invest от качественных фондов K-1 приходит до конца марта. На retail — часто после 30 апреля, что создаёт проблемы с extension. Это рабочий сигнал качества.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: юридическое. Строка: 14. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-15",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "Пост хороший в технике, но фрейм «четыре вопроса до подписания» работает только если ответы на них вообще доступны. На большинстве платформ Operating Agreement в полном виде высылают только после signing of NDA. Это и есть структурный барьер, который пост не упоминает.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: возражение. Строка: 15. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-16",
+      "assignee": "Максим Д.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "если managing member — это сам фонд (Тип 1) — он берёт carry дважды? раз с фонда и раз с SPV?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: уточняющий. Строка: 16. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-17",
+      "assignee": "Кирилл Б.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "Продуктово это и есть стандартный feedback loop в любой сложной структуре: пока инвестор не задаст 4 вопроса до подписания, рынок не начнёт их раскрывать по умолчанию. Спрос на прозрачность формирует прозрачность.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: углубление. Строка: 17. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-18",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "никогда не задавала вопрос про managing member",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: короткая. Строка: 18. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-19",
+      "assignee": "Павел С.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "В нашем family office мы добавили пятый вопрос к четырём: «какие side letters существуют у других инвесторов в этом SPV». На него получаем ответ в 60% случаев — и в 40% этого достаточно, чтобы понять асимметрию.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: углубление. Строка: 19. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-06-20",
+      "assignee": "Роман Ф.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), обед — SPV изнутри. Что подписывает частный инвестор",
+      "comment": "сложно но понял главное",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (технический). Тип: короткая. Строка: 20. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-01",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "waterfall — лучшее объяснение из всех что читала",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-02",
+      "assignee": "Олег Т.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "Один практический момент: catch-up 100% типично подаётся в документе как «standard catch-up». Слово «standard» здесь обманчивое — на разных платформах под ним прячутся принципиально разные настройки.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: юридическое. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-03",
+      "assignee": "Игорь М.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "то есть если сделка вышла в ноль или в минус — managing member работал бесплатно?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: базовый. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-04",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "На IC при экзите 5x доходности конфигурация waterfall меняет конечную сумму инвестора на 30-40%. На 2x — на 60-70%. Чем ниже доходность, тем критичнее waterfall.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: углубление. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-05",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "В моей сделке 2021 catch-up был 100%. Не обратил внимания при подписании. На exit'е это съело почти треть моей доли роста. Дорого выучил.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: личный опыт. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-06",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "Феликс, hurdle 8% — это годовых на весь холдинг или с момента закрытия SPV?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: уточняющий. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-07",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "если catch-up 100% это так плохо — почему его вообще существует как опция?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: уточняющий. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-08",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "плюс",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-09",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "В private banking смотрю презентации SPV постоянно. Catch-up структуру в декке скрывают за фразой «standard waterfall» в 9 из 10 случаев. Деталь видна только в PPM на странице 14-18.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: личный опыт. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-10",
+      "assignee": "Дмитрий А.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "Waterfall — это и есть тот пункт, который отличает alignment of interest от misalignment. Hurdle + катч-ап в разумных параметрах — alignment. Без hurdle или с агрессивным catch-up — misalignment.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: углубление. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-11",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "забрала структуру шагов",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 11. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-12",
+      "assignee": "Кирилл Б.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "Это и есть incentive design в чистом виде. Waterfall без hurdle = managing member получает carry даже за сделку без альфы. Hurdle = carry только за реальное превышение базовой доходности.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: углубление. Строка: 12. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-13",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "с фондового — в hedge funds high-water mark похож на hurdle?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: уточняющий. Строка: 13. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-14",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "Hurdle 8% — это «стандарт», который держится последние 15 лет. Но 15 лет назад T-bill был 1%, hurdle давал 7% реальной альфы над безрисковой ставкой. Сейчас T-bill ~5%, hurdle 8% даёт 3% альфы. Стандарт устарел, в современных условиях стандарт должен быть hurdle 10-12%.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: возражение. Строка: 14. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-15",
+      "assignee": "Алексей П.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "К catch-up'у — на retail-маркетплейсах часто встречается «modified catch-up», который технически даёт managing member больше базового сценария. Этот термин нужно отдельно читать в Operating Agreement.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: юридическое. Строка: 15. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-16",
+      "assignee": "Григорий Ш.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "При составлении Operating Agreement самая большая часть переговоров — waterfall. Это и есть тот пункт, в котором сторона lead вытягивает максимум, а сторона LP — защищается. Если на стороне LP только частный инвестор без юриста — обычно структура несбалансирована.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: юридическое. Строка: 16. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-17",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "буду спрашивать про catch-up на следующей сделке",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 17. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-18",
+      "assignee": "Максим Д.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "если у меня есть выбор между двумя SPV одной компании — как сравнить их waterfall?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: уточняющий. Строка: 18. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-19",
+      "assignee": "Павел С.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "В family office при сравнении сделок мы реально считаем «эффективную ставку carry» при экзите 2x, 3x и 5x. Это даёт три числа на одну сделку — гораздо честнее чем сравнивать «carry 15% vs carry 20%».",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: углубление. Строка: 19. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-07-20",
+      "assignee": "Роман Ф.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "26 мая (вт), вечер — Carried interest waterfall",
+      "comment": "сложно но интересно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 20. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-01",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "«полтора-два икса доходности» — серьёзная фраза",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-02",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "В моей первой сделке term sheet читал по диагонали. В пятой — построчно с маркером. Разница в подходе видна по доходности портфеля.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: личный опыт. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-03",
+      "assignee": "Игорь М.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "term sheet это то же что Operating Agreement или другой документ?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: базовый. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-04",
+      "assignee": "Алексей П.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "Уточнение от M&A: term sheet формально не юридически обязывающий документ (binding only on confidentiality and exclusivity). Все материальные условия живут в Operating Agreement. Но 99% term sheet'ов переходят в OA без изменений — поэтому читать их нужно как финальный документ.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: юридическое. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-05",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "5-7 пунктов — это много или мало для co-invest?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: уточняющий. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-06",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "Те 5 пунктов, которые сегодня будут — это и есть IC-чеклист на нашем уровне. Если хоть один пункт не отвечает стандарту качественной структуры — позиция не доходит до решения.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: углубление. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-07",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "плюс",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-08",
+      "assignee": "Григорий Ш.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "Самое важное про term sheet: формулировки в этих 5 пунктах стандартизированы на ~70%. Оставшиеся 30% — это разница между качественной структурой и retail. Эти 30% и нужно вычитывать.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: юридическое. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-09",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "У клиентов в private banking подписание term sheet идёт через RM банка. RM не читает 5 ключевых пунктов. Клиент тоже не читает. Подпись на формальном пункте 1, на котором ничего важного нет.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: личный опыт. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-10",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "Феликс, если в term sheet есть проблемный пункт — можно его переговорить или принимаешь как есть?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: уточняющий. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-11",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "с фондового — term sheet похож на prospectus IPO?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: уточняющий. Строка: 11. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-12",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "хороший анонс",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 12. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-13",
+      "assignee": "Дмитрий А.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "5 пунктов в term sheet — это и есть концентрированная экономика. Всё остальное в документе либо boilerplate либо производное от этих 5. Если хочется читать что-то одно — читать именно эти.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: углубление. Строка: 13. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-14",
+      "assignee": "Кирилл Б.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "Аналог по работе — спецификация продукта. 90% страниц технические детали, 5 параметров определяют 80% поведения. Term sheet работает так же.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: углубление. Строка: 14. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-15",
+      "assignee": "Олег Т.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "Term sheet редко содержит налоговые пункты — они уходят в OA. Но один пункт стоит проверять и в term sheet: tax distribution. Без него можно получить K-1 с большим income, но без cash для уплаты налога.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: юридическое. Строка: 15. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-16",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "запишу 5 пунктов",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 16. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-17",
+      "assignee": "Максим Д.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "разные фонды используют разные term sheet шаблоны или есть индустриальный стандарт?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: уточняющий. Строка: 17. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-18",
+      "assignee": "Павел С.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "NVCA Model Term Sheet — индустриальный стандарт для венчура. На late-stage co-invest используется его модификация. Знание базы NVCA — необходимый минимум для чтения любого term sheet.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: углубление. Строка: 18. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-19",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "Фрейм «5 пунктов определяют всё» — упрощение. Реальная структура работает 12-15 пунктами. Сводить к 5 — удобный пост, но опасный чеклист: те 7-10 пунктов, которые не вошли, тоже стреляют в exit'е.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: возражение. Строка: 19. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-08-20",
+      "assignee": "Роман Ф.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), утро — Доброе утро. Сегодня term sheet",
+      "comment": "буду ждать пост",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Доброе утро + анонс лонгрида. Тип: короткая. Строка: 20. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-01",
+      "assignee": "Алексей П.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "Один из самых аккуратных разборов term sheet, что видел в открытом поле. По pro-rata добавлю: на retail-платформах часто прячут в формулировке «pro-rata at discretion of managing member» — это значит «нет pro-rata» с другой формулировкой.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: юридическое. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-02",
+      "assignee": "Игорь М.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "то есть «pro-rata до экзита» и «pro-rata на один раунд» — это разные миры?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: базовый. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-03",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "В моей сделке 2019 не было pro-rata extension. На Series E компания подняла $400M, моя доля размылась с 0.6% до 0.31%. Если бы было extension до exit — был бы 0.6% × 4 года роста = другой результат.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: личный опыт. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-04",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "weighted average vs full ratchet — разница не маленькая",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: короткая. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-05",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "Из 5 пунктов pro-rata extension и information rights — самые недооценённые. Anti-dilution и lockup люди хотя бы спрашивают. Pro-rata extension и information rights в большинстве сделок проходят молча. Зря.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: углубление. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-06",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "Феликс, 5 пунктов в term sheet — это всё, или есть ещё 2-3 которые на эфире в четверг будете показывать?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: уточняющий. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-07",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "написал ЗАЯВКА",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: CTA. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-08",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "если в term sheet написано «standard anti-dilution» — это что значит?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: уточняющий. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-09",
+      "assignee": "Дмитрий А.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "5 пунктов формулируют экономику. Остальные 10 пунктов формируют операционку. Если хотя бы 2 из 5 в плохой конфигурации — позиция не имеет смысла.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: углубление. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-10",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "Этот чеклист — то, чего нет в private banking. Клиенты получают полный term sheet, но без инструкции «смотри сюда». В банке нет такой роли — кто-то, кто скажет «эти 5 пунктов держи под лупой».",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: личный опыт. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-11",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "забрала чеклист",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: короткая. Строка: 11. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-12",
+      "assignee": "Кирилл Б.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "Это и есть operational intelligence — не «знание venture-теории», а «навигация в реальном документе». Между ними дистанция 1-2 года практики.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: углубление. Строка: 12. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-13",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "с фондового — на бирже liquidation preference чем эквивалентно?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: уточняющий. Строка: 13. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-14",
+      "assignee": "Григорий Ш.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "По liquidation preference: 2x participating в late-stage co-invest действительно стоп-фактор. В Series A иногда встречается обоснованно, в Series E — это симптом плохого фонда или слабой компании.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: юридическое. Строка: 14. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-15",
+      "assignee": "Олег Т.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "По information rights — налоговый аспект. Без квартального cap table-доступа сложно правильно структурировать tax-loss harvesting в год сделки. Это рабочий пункт, не теоретический.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: юридическое. Строка: 15. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-16",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "сохранила",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: короткая. Строка: 16. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-17",
+      "assignee": "Павел С.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "5 пунктов выбраны идеально — это и есть наш family office go/no-go. Добавил бы шестой как inline-наблюдение: vesting/cliff на founders. Без него late-stage позиция держит дополнительный risk.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: углубление. Строка: 17. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-18",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "Pro-rata extension до exit'а — звучит как преимущество, но это double-edged. На down-round это означает обязанность доплатить, чтобы сохранить долю. Если у тебя нет dry powder — pro-rata extension превращается в добровольное размывание. Пост этот сценарий не покрывает.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: возражение. Строка: 18. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-19",
+      "assignee": "Максим Д.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "broad-based weighted average — это формула? в каком виде её обычно прописывают?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: уточняющий. Строка: 19. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-09-20",
+      "assignee": "Роман Ф.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), обед — Term sheet. Пять пунктов под лупой",
+      "comment": "впервые понятно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: ЛОНГРИД (главный пост среды). Тип: короткая. Строка: 20. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-01",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "примеры со Stripe / Instacart / Klarna — отрезвляющие",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-02",
+      "assignee": "Дмитрий А.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "Klarna −85% — это extreme case, но он показывает диапазон. В late-stage никто из управляющих не закладывает >50% down-round, и почти каждый цикл проходит через позицию где это случается.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: углубление. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-03",
+      "assignee": "Игорь М.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "то есть anti-dilution не возвращает деньги, а возвращает долю?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: базовый. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-04",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "В моей сделке 2022 был down-round −38%. Broad-based weighted average compensation покрыл около 55% размывания. Без неё — на бумаге была бы убыточная позиция. С ней — flat.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: личный опыт. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-05",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "плюс",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-06",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "Феликс, full ratchet в late-stage — это лучше или хуже чем broad-based? я думал лучше всегда максимальная защита",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: уточняющий. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-07",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "У клиентов в private banking 90% документации содержит «anti-dilution provisions» без указания типа. Это и есть тот пункт, который надо требовать в явном виде. «Provisions есть» ≠ «защита есть».",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: личный опыт. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-08",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "На IC при down-round full ratchet даёт защиту 100%, но фактически нерабочая — компании сопротивляются настолько, что вход на этих условиях невозможен. Broad-based — единственная переговороспособная конфигурация в late-stage.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: углубление. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-09",
+      "assignee": "Юлия Е.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "Klarna впечатлила",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-10",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "если у меня broad-based — формулу как-то проверять или довериться расчёту managing member?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: уточняющий. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-11",
+      "assignee": "Алексей П.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "По формуле broad-based: она есть в Operating Agreement, считается на дату down-round. Любой member SPV имеет право запросить расчёт. Большинство не запрашивает — managing member считает сам и присылает уведомление о новой share count.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: юридическое. Строка: 11. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-12",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "с фондового — anti-dilution на private похож на dilution protection в опционах?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: уточняющий. Строка: 12. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-13",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "Down-round защита — нужная вещь, но фрейм поста создаёт впечатление, что «с anti-dilution всё ок, без неё — проблема». Реальная защита намного слабее. На размывании оценки −85% даже broad-based weighted average покрывает 40-60%. Это не «амортизирует удар», это «удар становится сильно меньше, но всё равно очень больной». Тон поста маркетинговый.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: возражение. Строка: 13. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-14",
+      "assignee": "Кирилл Б.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "Это и есть классический insurance product в чистом виде. Не предотвращает событие, ограничивает loss. Цена страховки уже в premium на entry — на co-invest с anti-dilution premium на 3-5% выше чем без.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: углубление. Строка: 14. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-15",
+      "assignee": "Григорий Ш.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "Pay-to-play — родственная провизия anti-dilution, часто упоминаемая в OA. Если у инвестора есть anti-dilution, но он не участвует в down-round, защита может быть аннулирована. Это «гарантия с условием». Малоизвестно среди private investors.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: юридическое. Строка: 15. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-16",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "теперь буду спрашивать тип явно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 16. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-17",
+      "assignee": "Олег Т.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "При срабатывании anti-dilution и доначислении акций — налоговое событие может или не может произойти, в зависимости от структуры. На прямом co-invest от качественного фонда — обычно не event. На retail иногда — phantom income.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: юридическое. Строка: 17. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-18",
+      "assignee": "Максим Д.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "Klarna 2023 — это публичный кейс или из инсайдеров?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: уточняющий. Строка: 18. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-19",
+      "assignee": "Павел С.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "Anti-dilution в late-stage в нашем family office рассматривается не как защита, а как pricing signal. Если фонд готов давать broad-based — это сигнал, что они уверены в избыточном спросе. Если предлагают no anti-dilution — сделка слабая.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: углубление. Строка: 19. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-10-20",
+      "assignee": "Роман Ф.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "27 мая (ср), вечер — Anti-dilution provision",
+      "comment": "понятно но грустно",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Термин. Тип: короткая. Строка: 20. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-01",
+      "assignee": "Тимур В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "буду",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: короткая. Строка: 1. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-02",
+      "assignee": "Михаил К.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "Открытый разбор co-invest сделки в моменте — формат, которого нет нигде в открытом поле. Подключусь обязательно.",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: личный опыт. Строка: 2. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-03",
+      "assignee": "Анна В.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "ждала всю неделю",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: короткая. Строка: 3. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-04",
+      "assignee": "Артём Г.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "Феликс, документы будут показывать в живую или blur-форме?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: уточняющий. Строка: 4. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-05",
+      "assignee": "Андрей Л.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "решение к концу часа — это запланированное «да» или реально возможен «нет» в эфире?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: уточняющий. Строка: 5. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-06",
+      "assignee": "Сергей Н.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "Феликс, какая компания на эфире? хоть категорию намекнёте?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: уточняющий. Строка: 6. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-07",
+      "assignee": "Никита З.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "буду слушать как раз ровно после своего IC",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: короткая. Строка: 7. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-08",
+      "assignee": "Елена О.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "в календаре",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: короткая. Строка: 8. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-09",
+      "assignee": "Виктор Р.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "клиентам буду рекомендовать",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: короткая. Строка: 9. Источник: Felix_Week_25-28_May_v1.docx"
+    },
+    {
+      "id": "felix-11-10",
+      "assignee": "Денис Х.",
+      "postUrl": "https://t.me/financetest121212/7",
+      "postLabel": "28 мая (чт), утро — Сегодня в 19:00 стрим с Александрой",
+      "comment": "с фондового — записи правда не будет совсем? даже для подписчиков канала?",
+      "status": "pending",
+      "dueAt": "",
+      "notes": "Слот: Анонс стрима + закрытие технической недели. Тип: уточняющий. Строка: 10. Источник: Felix_Week_25-28_May_v1.docx"
+    }
+  ]
+}
